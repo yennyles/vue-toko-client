@@ -1,4 +1,5 @@
 # vue-toko-client
+Membuat aplikasi toko online sisi client dengan VUE JS 
 
 ## Project setup
 ```
